@@ -1,2 +1,2 @@
 # GraphicsProjectGame
-Game I made for a Graphics projects at Siena College
+Game I made for a Graphics project at Siena College
